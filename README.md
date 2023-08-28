@@ -21,8 +21,8 @@ an optimisation-based refinement stage at inference to prevent self-penetrations
 If you find this code useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{placeholder,
-author = {placeholder},
+@inproceedings{tse2023spectral,
+author = {Tse, Tze Ho Elden and Mueller, Franziska and Shen, Zhengyang and Tang, Danhang and Beeler, Thabo and Dou, Mingsong and Zhang, Yinda and Petrovic, Sasa and Chang, Hyung Jin and Taylor, Jonathan and Doosti, Bardia},
 title = {Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images},
 booktitle = {ICCV},
 year = {2023}
