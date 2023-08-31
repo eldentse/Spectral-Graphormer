@@ -2,7 +2,7 @@
 
 Tensorflow implementation of the paper ["Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images"](https://arxiv.org/pdf/2308.11015.pdf), ICCV 2023.
 
-[[Project page]](https://eldentse.github.io/Spectral-Graphormer/) [[arXiv]](https://arxiv.org/pdf/2308.11015.pdf) [[Code & Data (coming soon)]](https://github.com/google-research/google-research/spectral_graphormer)
+[[Project page]](https://eldentse.github.io/Spectral-Graphormer/) [[arXiv]](https://arxiv.org/pdf/2308.11015.pdf) [[Code & Data (coming soon)]](https://github.com/google-research/google-research/tree/master/spectral_graphormer)
 
 <p align="center">  
 <img src="assets/teaser.png"> 
